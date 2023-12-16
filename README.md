@@ -18,3 +18,31 @@ To build and run the app, you need to have Android Studio installed. Follow thes
 
    ```bash
    git clone https://github.com/souravjaiswl/WorkReminder.git
+
+1. Open the project in Android Studio.
+2. Build and run the app on an emulator or a physical device.
+
+Dependencies
+AndroidX Core KTX
+AndroidX Lifecycle
+AndroidX Activity Compose
+Jetpack Compose
+Material Icons Extended
+Volley
+JUnit
+Espresso
+Coil
+Navigation Component
+Dagger Hilt
+Room Database
+DataStore
+Swipe Saket UI
+Make sure to check the build.gradle file for the complete list of dependencies and their versions.
+
+Contributing
+If you want to contribute to this project, feel free to open issues or submit pull requests. Your contributions are highly appreciated!
+
+License
+This project is licensed under the MIT License.
+
+Happy Coding! 
