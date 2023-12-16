@@ -88,6 +88,8 @@ fun Setter(navController: NavController, viewModel: SetterViewModel = hiltViewMo
                             "ButtonClicked",
                             "Save Task !"
                         )
+                        viewModel.addNote()
+                        navController.popBackStack()
                     }) {
                         Icon(
                             imageVector = Icons.Filled.Check,
