@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name_line1">Work</string>
+    <string name="app_name_line2">Reminder</string>
+    <string name="app_name">Work\u000AReminder</string>
+</resources>
