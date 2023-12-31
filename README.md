@@ -1,6 +1,11 @@
 # WorkReminder
 Welcome to WorkReminder repository! This is a simple and intuitive ToDo application built with Kotlin and Jetpack Compose. Organ
 
+## Screenshots
+
+| ![screenshot](https://github.com/souravjaiswl/WorkReminder/assets/73962038/4bb97cb3-b764-4086-9894-5428bda72cce) | ![screenshot](https://github.com/souravjaiswl/WorkReminder/assets/73962038/b09847b0-3511-4bb3-a8a6-1093da223d30) |
+| -------------------------- | -------------------------- |
+
 ## Features
 - **Compose UI**: Utilizes the power of Jetpack Compose for building a modern and reactive user interface.
 - **Dagger Hilt**: Implements dependency injection for a clean and maintainable codebase.
